@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands thankes: or, A message of thankes, (delivered by Guild-Hall) from our Mother England to all her true hearted children that have been any way assistant to the Parliament in maintaining the honour of the King, the true re[l]igion, liberty of the subject and priviledges of Parliament. With a caveat to the vulgars, that they speake not immodestly of the king, and envie not his person, but leave all things to be controverted by the grave and wise Parliament, and leave the issue to God. Ordered to be forthwith printed and published. B. R.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92194</idno>
+            <idno type="STC">Wing R4</idno>
+            <idno type="STC">Thomason E126_34</idno>
+            <idno type="STC">ESTC R19983</idno>
+            <idno type="EEBO-CITATION">99860797</idno>
+            <idno type="PROQUEST">99860797</idno>
+            <idno type="VID">112922</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112922)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands thankes: or, A message of thankes, (delivered by Guild-Hall) from our Mother England to all her true hearted children that have been any way assistant to the Parliament in maintaining the honour of the King, the true re[l]igion, liberty of the subject and priviledges of Parliament. With a caveat to the vulgars, that they speake not immodestly of the king, and envie not his person, but leave all things to be controverted by the grave and wise Parliament, and leave the issue to God. Ordered to be forthwith printed and published. B. R.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Leach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112922:1"/>
+            <pb facs="tcp:112922:1" rendition="simple:additions"/>
+            <p>Englands Thankes: OR, A MESSAGE OF THANKES, (Delivered, by GUILD-HALL) from our Mother ENGLAND to all her true hearted Children that have been any way aſſiſtant to the Parliament in maintaining the honour of the KING, the true Re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igion, Liberty of the Subject and Priviledges of PARLIAMENT.</p>
+            <p>With A CAVEAT to the VULGARS, that they ſpeake not immodeſtly of the KING, and envie not His Perſon, but leave all things to be contro<g ref="char:EOLhyphen"/>verted by the grave and wiſe Parlia<g ref="char:EOLhyphen"/>ment, and leave the iſſue to God.</p>
+            <p>
+               <hi>Oodered to be forthwith Printed and Publiſhed.</hi>
+            </p>
+            <p>B. R.</p>
+            <figure>
+               <figDesc>woodcut, a Tudor rose and a fleur-de-lis each crowned</figDesc>
+            </figure>
+            <p>London, Printed for <hi>Francis Leach.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112922:2"/>
+            <pb n="1" facs="tcp:112922:2"/>
+            <head>THE MESSAGE As 'twas delivered BY GVILD-HALL.</head>
+            <opener>
+               <salute>Gentlemen, or what ere your titles are,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ere it ſuitable to your gravi<g ref="char:EOLhyphen"/>ties to fancie Raptures from Poetick braines, I would ſatisfie your Appetite with golden Ver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e: or had I my ſelfe but Tullies wealth, I would deliver my Arrand in words exactly placed, like Apples of Gold in Pictures of Silver: but you all know my Gifts, I never had that of Eloquence, therefore I ſhall not flatter you in either Straine.</p>
+            <p>I bring you Thanks attended with all the cir<g ref="char:EOLhyphen"/>cumſtances of Love, to prove a gratefull Acce<g ref="char:EOLhyphen"/>ptance of your good Affections you have ſo free<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:112922:3"/>expreſt: I come not from a bare Friend, from whom you might juſtly challenge that poore re<g ref="char:EOLhyphen"/>ward of Thanks, but which adds Glory to the Meſſage) am ſent by her that may command what you have done, though (which adds to her Goodneſſe) ſhe promiſeth Repayment: may no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ENGLAND your Mother juſtly claime a maintenance from her Childrens eſtates, when as ſhe made them capable of inheritances? ſure<g ref="char:EOLhyphen"/>ly, tis juſtice every one to have the Crop of his owne Seed: As, tis more than crueltie in theſe that bite the Breaſts from which their Infancy at firſt received Nouriſhment, ſo they are not leſſe unnaturall, that ſuffer an unrevenged Kicke upon the Womb where they firſt received breath: This is your Mother ENGLANDS caſe, and ſhall not ſhe command her Childrens Aid, to keepe her aged Selfe from an untimely Grave: Yes, yes, ſhe may, and you like good Children have ſhewed your ſelves no leſſe undu<g ref="char:EOLhyphen"/>tifull to her, than ſhe tender to you: and ſhee ſends you Thanks to encourage your farther on<g ref="char:EOLhyphen"/>ſet in caſe of greater neceſſitie.</p>
+            <p>Shall the Faith the brought you up in, and that purchaſed at firſt, not with the expence of a little Bloud, and ſince maintained gainſt many Oppoſitions, be checkt now for feare of Bloud<g ref="char:EOLhyphen"/>ſhed? Shall the Religion you have hitherto en<g ref="char:EOLhyphen"/>joyed be now baſely betrayed, when your Adverſaries the Papiſts have leſt convenience? Shall the Liberties your Anceſtors bought ſo
+<pb n="3" facs="tcp:112922:3"/>dearely, and bequeathed to you ſo freely unvio<g ref="char:EOLhyphen"/>lated, be now captivated with I know not what oppreſſion? Will you now prove Baſtards to your Fathers blouds, and make your Mother guiltie of a generall Whoredome? Or can any men be ſo Degenerate, as if their Fathers had ſold all their Vertues with a generall Warranty? have you enjoyed a Parliament you ſo long ex<g ref="char:EOLhyphen"/>pected, and will you not ſtand cloſe to them that endanger their owne lives and fortunes to preſerve yours? 'Tis a Rule you may take now from your dying Mother (unleſſe God be more gratious than Phyſitians skilfull) that a power<g ref="char:EOLhyphen"/>full Parliament makes a glorious Prince, a weak Enemy, and a rich and quiet Kingdome: and you all, or at leaſt, ye Aged among you, find, or have found that Rule without exception: Is not the Parliament a ſure Revenger of an injured Cauſe? and when malignant favourites barre you of your Appeale to your moſt gracious and religious meaning Prince, are not they (being not ſubject to deluſion) impartially ready to heare thy Conplaints? Surely you have all found them ſo, and if ſo, ought not you then to puze them at too high a rate to be ſacrificed to the bloud thirſting crueltie of Papiſt call and ill affected Cavalliers? Yes, yes, your Mother ſayes you ought, and therefore ſhee upon her bleſſing commands thoſe that have beene hi<g ref="char:EOLhyphen"/>therto backward to let them ſee how they re<g ref="char:EOLhyphen"/>liſh their Mothers affronts: and for you that have
+<pb n="4" facs="tcp:112922:4"/>beene forward, ſhe bleſſeth thoſe fruits of her Wombe.</p>
+            <p>But ſomething els I am to tell you from your Mother, which as a charge ſhe laid upon all her Children in generall, but eſpecially upon her youngeſt Children, I meane the Vulgars: ſhee bid me tell it you all, not as if the better breed<g ref="char:EOLhyphen"/>ing and greater knowledge of you her eldeſt Sons were not ſufficient to tell you your duties, but that you might call upon them being more ignorant to learne theirs: her charge is this.</p>
+            <p>Shee ſayes your cauſe is juſt and noble, els you ſhould never have had encouragement from her: But yet ſhe ſayes you muſt not ſtand ſo much for your Mother Englands right, as to de<g ref="char:EOLhyphen"/>ſtroy your Fathers, the Kings: Shee ſaye Gods command of Obedience to your Parents, doth not except againſt the honour you owe your Father: Therefore her charge is, that as you are willing to aſſiſt the Parliament, ſo you bee ſure your private hopes or inward thoughts bee not beyond the intent of the Parliament, for feare leſt their juſt cauſe ſhould faile, notwith<g ref="char:EOLhyphen"/>ſtanding your large contributions) by reaſon of your juſt intentions.</p>
+            <p>If you ſtill give me leave to explain her words, her intent I will take to be this, ſhe knowes the intent of the Parliament to be good and honeſt, and ſhee takes notice of the allegeance, reſpect, and reverence they give his Majeſtie, and ſhee deſires you to ſee that your younger brethren,
+<pb n="5" facs="tcp:112922:4"/>the Vulgars, doe not tranſgreſſe with immodeſt language, whereby ſcandals may be laid upon the King your Father, and the blame at laſt bee caſt upon that guiltleſse and wiſely innocent Councell, the Parliament.</p>
+            <p>The Law ſayes the King can doe no wrong, and the Parliament intimate as much by laying the fault upon his evill Councellors: and ought thoſe Inferiours then to bee commended or thought Religious, that do their beſt endeavours to ſtaine Majeſtie it ſelfe, with that impudence that Superiours bluſh at? Can undue and ſcan<g ref="char:EOLhyphen"/>dalouſly unlawfull Expreſſions be thought the fruits of a good and zealous Spirit? Surely if thoſe of authoritie (I meane the Parliament) ſhould lay no better a foundation than thoſe Vulgars do, our Church would ſoon be Ruina<g ref="char:EOLhyphen"/>ted not Reformed, I cannot judge of Mens hearts Certainly, but am bound to think Chari<g ref="char:EOLhyphen"/>tably, and therefore I doe confeſſe, that many nay all the Multitude may have honeſt Hearts, and yet the Zeale of their Houſes (I mean their Conventicles) may eat them up: I mean when the vertue Zeale for want of Knowledge and Di<g ref="char:EOLhyphen"/>ſcretion is turnd to vitious Paſſion) and ſuch Men like blind Horſes that are mettleſome may d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh their braines againſt the Wall for want of a carefull Rider.</p>
+            <p>This is that for which your Mother does deſire all her knowing and religious Children to cor<g ref="char:EOLhyphen"/>rect their ignorant Brethren: I have no more to
+<pb n="6" facs="tcp:112922:5"/>ſay to you his good Children that have beene forward to joyn with this happy and bleſsed par<g ref="char:EOLhyphen"/>liament to relieve your diſtreſs'd mother, but on<g ref="char:EOLhyphen"/>ly to deliver her bleſsing to you all, which comes as heartily from her, as the great teſtimonies I have received from you of your good affections.</p>
+            <p>May all Accidents conſpire to bleſse you with an happy Succeſse: May you all Flouriſh, like the Tree planted by the River ſide, in deſpight of wicked Oppoſers. May you be Crowned with the accompliſhment of your Religious aimes. May the reward of you and your Poſteritie bee the enjoyment of the true Catholike and Apo<g ref="char:EOLhyphen"/>ſtolicall Religion, the worldly Peace and the Li<g ref="char:EOLhyphen"/>bertie of Subjects here, and may you all be na<g ref="char:EOLhyphen"/>turallized in Heaven hereafter. May your migh<g ref="char:EOLhyphen"/>ty arme be ſtretcht out in defence of your juſt Cauſe, and may the memory of your good Af<g ref="char:EOLhyphen"/>fections and of this bleſsed Parliament, never meet a Grave in comming Ages.</p>
+            <p>Thus I have done with you, but let me tell you your Mothers Curſe to thoſe her Children that ſtill periſh, not only ſlighting but encreaſ<g ref="char:EOLhyphen"/>ing her too great Miſeries, for thoſe she prayed that either better Qualities may poſseſse them, or ſuddaine death deſtroy them; and after their untimely Diſsolution, may their injured Mo<g ref="char:EOLhyphen"/>thers cauſleſse ſufferings riſe up in judgment a<g ref="char:EOLhyphen"/>gainſt them, and may their unnaturall Violence to their murthered brothers and ravished ſiſters, add ſeverall degrees to their deſerved torments.</p>
+            <trailer>DIXI.</trailer>
+            <pb facs="tcp:112922:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
